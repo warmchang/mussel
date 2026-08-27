@@ -189,7 +189,7 @@ if [ -z "$download_command" ]; then
     "$YELLOWC" "$NORMALC" \
     'https://aria2.github.io' 'https://curl.se' \
     'https://lynx.invisible-island.net' 'https://w3m.sourceforge.net' \
-    'https://www.gnu.org/software/wget/ (C'\''mon, it'\''s better than nothing)'
+    'https://gnu.org/software/wget/ (C'\''mon, it'\''s better than nothing)'
   exit 1
 fi
 
